@@ -1,0 +1,558 @@
+[
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies Cl C",
+    "sector": "Technology",
+    "industry": "Computer-Hardware/Peripherals",
+    "marketCapM": 140505.7,
+    "avgDollarVolM": 3866.503,
+    "price": 438.39,
+    "priceChangePct": 9.2,
+    "volume": 14855,
+    "volVsAvgPct": 128,
+    "epsRating": 97,
+    "rsRating": 99,
+    "smrRating": null,
+    "adRating": "B",
+    "compositeRating": 99,
+    "groupRank": 3,
+    "offHighPct": -13.91,
+    "baseStatus": "Forming",
+    "weeksInBase": 0,
+    "pivotChangePct": 0,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Forming Base",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        {
+          "text": "Q1 FY2027 revenue rose 88% year over year to $43.8 billion, crushing the roughly $34.8 billion consensus, with non-GAAP diluted EPS of $4.86",
+          "url": null
+        },
+        {
+          "text": "AI-optimized server revenue hit a record $16.1 billion (up 757% year over year) with $24.4 billion booked in AI orders and a record $51.3 billion AI backlog",
+          "url": null
+        },
+        {
+          "text": "Management raised full-year FY2027 revenue guidance to $165-169 billion and targets roughly $60 billion in AI server revenue, about 2.4x year over year",
+          "url": null
+        }
+      ],
+      "bearCase": [
+        {
+          "text": "AI-optimized servers carry only about 18% gross margins, and rising memory/DRAM costs are compressing blended profitability further",
+          "url": null
+        },
+        {
+          "text": "Shares trade near 34x forward earnings after a roughly 197% year-to-date gain, above InvestingPro's fair value estimate of about $358",
+          "url": null
+        },
+        {
+          "text": "The traditional PC business, roughly 40% of sales, remains cyclically soft and exposed to the same rising memory costs and inventory-overhang risk",
+          "url": null
+        }
+      ],
+      "catalysts": [
+        {
+          "text": "Dell shares jumped 9.3% on July 22, 2026 to close at $441.80 after rival Super Micro reported a record $60 billion order backlog and stronger margins, reinforcing AI-server demand read-through",
+          "url": null
+        },
+        {
+          "text": "The next major catalyst is Q2 FY2027 earnings on September 3, 2026, where management guided to $44-45 billion revenue and about $15.5 billion in AI server sales",
+          "url": null
+        },
+        {
+          "text": "A quarterly dividend of $0.63 per share is payable July 31, 2026",
+          "url": null
+        }
+      ],
+      "redFlags": [
+        {
+          "text": "The most notable flag is insider selling of roughly $1.56 billion over three months with zero offsetting purchases, including Silver Lake affiliate sales at $420-438 disclosed in a July 6 Form 144",
+          "url": null
+        },
+        {
+          "text": "On ratings, UBS downgraded Dell to Neutral and GF Securities cut to Hold, both citing the stretched valuation after the roughly 200% rally",
+          "url": null
+        },
+        {
+          "text": "No material litigation or guidance cut was found; guidance was in fact raised",
+          "url": null
+        }
+      ],
+      "narrative": [
+        {
+          "text": "Wall Street is broadly constructive, with MarketBeat showing a Moderate Buy consensus from 32 brokerages (20 buys) and an average target of about $492.76, while Evercore ISI's Amit Daryanani raised his target to $500 on July 8 with an Outperform rating",
+          "url": null
+        },
+        {
+          "text": "Jim Cramer has repeatedly championed the AI-infrastructure pivot, and Insider Monkey data shows hedge-fund ownership rising to 72 funds in Q1 2026",
+          "url": null
+        },
+        {
+          "text": "Retail sentiment turned bullish alongside the July server-demand rally",
+          "url": null
+        }
+      ],
+      "industry": [
+        {
+          "text": "Tailwind: Enterprise, sovereign and neocloud AI infrastructure spending remains structurally ahead of supply, with demand imbalance expected to intensify into CY2027",
+          "url": null
+        },
+        {
+          "text": "Tailwind: Nvidia partnership and new Vera Rubin-based PowerEdge servers position Dell as a leading integrated AI-factory 'picks and shovels' vendor",
+          "url": null
+        },
+        {
+          "text": "Headwind: A persistent DRAM/NAND memory shortage constrains shipments and raises component costs across both AI servers and the traditional PC segment",
+          "url": null
+        }
+      ],
+      "verdict": "Dell has re-rated into a leading AI-infrastructure name, with an $51.3 billion backlog and raised $165-169 billion FY2027 guidance underpinning the bull case. The key risk is thin ~18% AI-server margins pressured by rising memory costs, alongside heavy insider selling and a valuation near 34x forward earnings.",
+      "sources": [
+        {
+          "label": "FX Leaders - Dell climbs on Super Micro AI read-through",
+          "url": "https://www.fxleaders.com/news/2026/07/22/dell-stock-climbs-6-as-super-micros-ai-update-boosts-server-demand-outlook/"
+        },
+        {
+          "label": "Investing.com - Dell bull vs bear case, insider selling and downgrades",
+          "url": "https://www.investing.com/news/stock-market-news/dell-technologies-bull-vs-bear-case-after-a-106-weekly-selloff-93CH-4801623?ampMode=1"
+        },
+        {
+          "label": "Yahoo Finance - Dell climbs 9.3% on Nvidia AI server demand and dividend",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html"
+        },
+        {
+          "label": "MarketBeat - Dell Moderate Buy consensus and $492.76 target",
+          "url": "https://www.marketbeat.com/instant-alerts/dell-technologies-inc-nysedell-receives-average-rating-of-moderate-buy-from-brokerages-2026-07-22/"
+        },
+        {
+          "label": "Yahoo Finance - Cramer defends Dell, Evercore raises target to $500",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-defends-dell-stance-145543736.html"
+        },
+        {
+          "label": "TS2 TechStock - Dell outlook, SEC Form 144 Silver Lake sale",
+          "url": "https://ts2.tech/en/dell-nysedell-outlook-trump-buzz-fades-focus-shifts-to-ai-servers-sec-updates/"
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog Inc Cl A",
+    "sector": "Technology",
+    "industry": "Computer Sftwr-Enterprise",
+    "marketCapM": 80748.8,
+    "avgDollarVolM": 1377.064,
+    "price": 244.81,
+    "priceChangePct": -3.5,
+    "volume": 5368,
+    "volVsAvgPct": 45,
+    "epsRating": 96,
+    "rsRating": 97,
+    "smrRating": 95,
+    "adRating": "B",
+    "compositeRating": 99,
+    "groupRank": 10,
+    "offHighPct": -8.58,
+    "baseStatus": "Forming",
+    "weeksInBase": 0,
+    "pivotChangePct": 0,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Forming Base",
+    "priceVolAction": "Down in Price",
+    "analysis": {
+      "bullCase": [
+        {
+          "text": "Q1 2026 revenue crossed $1 billion for the first time, up 32.1% year over year, with non-GAAP EPS of $0.60 beating the $0.51 consensus",
+          "url": null
+        },
+        {
+          "text": "The company added 240 customers paying over $100,000 annually to reach roughly 4,550, and net revenue retention remained above 120%",
+          "url": null
+        },
+        {
+          "text": "Datadog expanded its AI moat via the June 30 acquisition of Adaptive ML (RLOps), 100+ new capabilities announced June 9, and FedRAMP High certification",
+          "url": null
+        }
+      ],
+      "bearCase": [
+        {
+          "text": "The stock trades at roughly 106x forward earnings and near 20x forward revenue after a 94% year-to-date rally, leaving little room for execution misses",
+          "url": null
+        },
+        {
+          "text": "Full-year 2026 guidance of about $4.32 billion implies roughly 26% growth, a sharp deceleration from Q1's 32%",
+          "url": null
+        },
+        {
+          "text": "Corporate insiders sold about $378.2 million in shares over three months with zero purchases, including CTO Alexis Le-Quoc's roughly $11.5 million sale on July 20",
+          "url": null
+        }
+      ],
+      "catalysts": [
+        {
+          "text": "Datadog reports Q2 2026 results before the U.S",
+          "url": null
+        },
+        {
+          "text": "market open on Thursday, August 6, 2026, with Street estimates near $0.58 EPS on about $1.08 billion revenue",
+          "url": null
+        },
+        {
+          "text": "Ahead of the print, a wave of July target hikes (UBS to $315, Citizens/JMP to $311, Oppenheimer, Guggenheim, TD Cowen and BofA to $300-305) has raised the bar, while the June 30 Adaptive ML acquisition adds an AI-agent growth angle",
+          "url": null
+        }
+      ],
+      "redFlags": [
+        {
+          "text": "Two firms turned cautious on valuation: Jefferies' Brent Thill downgraded Datadog to Hold on July 21 (target raised to $280) saying the AI-spending thesis had 'largely played out,' and Bernstein cut to Market Perform on July 6",
+          "url": null
+        },
+        {
+          "text": "Insider selling of roughly $378.2 million over three months with no purchases is a governance flag, though sales were executed under Rule 10b5-1 plans",
+          "url": null
+        },
+        {
+          "text": "No litigation or guidance cut was found",
+          "url": null
+        }
+      ],
+      "narrative": [
+        {
+          "text": "Consensus remains bullish, with MarketBeat showing a Moderate Buy from 46 analysts (38-40 buys) and an average target near $261.68, and Investing.com citing a Strong Buy rating; targets cluster in the $280-315 range after July revisions",
+          "url": null
+        },
+        {
+          "text": "The Jefferies and Bernstein downgrades introduced a valuation-caution counterpoint",
+          "url": null
+        },
+        {
+          "text": "Retail sentiment cooled with the stock pulling back roughly 3% around July 22 on profit-taking",
+          "url": null
+        }
+      ],
+      "industry": [
+        {
+          "text": "Tailwind: AI-driven observability and security demand is accelerating cloud-monitoring spend, with AI-native cohorts representing about 20% of customers but 80% of ARR",
+          "url": null
+        },
+        {
+          "text": "Tailwind or Headwind: A CPU 'renaissance' and open-weight model growth support Infrastructure Monitoring (~40% of ARR), but software multiples remain sentiment-sensitive",
+          "url": null
+        },
+        {
+          "text": "Headwind: High-multiple software names face rotation risk as Wall Street turns cautious ahead of major technology earnings, amplifying volatility",
+          "url": null
+        }
+      ],
+      "verdict": "Datadog pairs best-in-class execution, $1 billion-plus quarterly revenue growing 32%, and expanding AI observability leadership against an extreme valuation near 106x forward earnings. With a 94% year-to-date run already reflecting the AI thesis, decelerating guidance and Jefferies' valuation-driven downgrade define the key downside risk into August earnings.",
+      "sources": [
+        {
+          "label": "Blockonomi - Jefferies downgrades Datadog to Hold after 94% rally",
+          "url": "https://blockonomi.com/jefferies-downgrades-datadog-ddog-stock-to-hold-after-94-rally/"
+        },
+        {
+          "label": "MarketScreener - July analyst target revisions (TD Cowen, BofA, Guggenheim)",
+          "url": "https://www.marketscreener.com/news/td-cowen-adjusts-price-target-on-datadog-to-300-from-260-maintains-buy-rating-ce7f51d9d88ff127"
+        },
+        {
+          "label": "MarketBeat - Oppenheimer target to $300, Q1 metrics and consensus",
+          "url": "https://www.marketbeat.com/instant-alerts/datadog-nasdaqddog-price-target-raised-to-30000-at-oppenheimer-2026-07-20/"
+        },
+        {
+          "label": "Kavout - Bernstein downgrade to Market Perform, valuation detail",
+          "url": "https://www.kavout.com/market-lens/datadog-s-ai-promise-can-t-outrun-its-valuation-reality"
+        },
+        {
+          "label": "TIKR - Datadog Q1 $1B revenue, guidance and FedRAMP High",
+          "url": "https://www.tikr.com/blog/datadog-revenue-crossed-1-billion-in-a-single-quarter-the-stock-has-nearly-doubled-this-year"
+        },
+        {
+          "label": "Zacks - Datadog acquires Adaptive ML (RLOps), Q1 customer metrics",
+          "url": "https://www.zacks.com/stock/news/2946257/datadog-acquires-adaptive-ml-to-pioneer-rlops-whats-ahead"
+        },
+        {
+          "label": "Stock Titan - CTO Alexis Le-Quoc 10b5-1 share sale July 20",
+          "url": "https://www.stocktitan.net/sec-filings/DDOG/form-4-datadog-inc-insider-trading-activity-ddc84bd2e0cd.html"
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio Inc Cl A",
+    "sector": "Technology",
+    "industry": "Computer Sftwr-Enterprise",
+    "marketCapM": 28284.4,
+    "avgDollarVolM": 476.461,
+    "price": 185.89,
+    "priceChangePct": -4.9,
+    "volume": 1963,
+    "volVsAvgPct": 19.9,
+    "epsRating": 97,
+    "rsRating": 94,
+    "smrRating": 73,
+    "adRating": "B+",
+    "compositeRating": 98,
+    "groupRank": 10,
+    "offHighPct": -17.72,
+    "baseStatus": "Forming",
+    "weeksInBase": 0,
+    "pivotChangePct": 0,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Forming Base",
+    "priceVolAction": "Down in Price",
+    "analysis": {
+      "bullCase": [
+        {
+          "text": "Q1 2026 adjusted EPS of $1.50 beat the $1.27 consensus and revenue rose 20% year over year to $1.41 billion, above the $1.34 billion estimate",
+          "url": null
+        },
+        {
+          "text": "GAAP net income improved sharply to $90.1 million from $20.0 million a year earlier, marking a return to profitability",
+          "url": null
+        },
+        {
+          "text": "Management raised FY2026 organic revenue growth guidance to 14-15% and cited 'unprecedented' demand for an AI feature plus a $1.08-1.10 billion free-cash-flow outlook",
+          "url": null
+        }
+      ],
+      "bearCase": [
+        {
+          "text": "Shares fell 6.5% on July 22, 2026 to about $183.57, roughly 18% below the June 4 52-week high of $238.48, as investors took profits near the $200 level",
+          "url": null
+        },
+        {
+          "text": "GuruFocus pegs fair value at $119.15 versus a mid-July price around $206.78, implying the stock is about 73.5% overvalued on that model",
+          "url": null
+        },
+        {
+          "text": "Corporate insiders have been persistent net sellers, including a $342.2 million three-month tally and a 1,000,000-share, $184 million sale by director Andrew Stafman in May 2026",
+          "url": null
+        }
+      ],
+      "catalysts": [
+        {
+          "text": "Twilio reports Q2 2026 results after the U.S",
+          "url": null
+        },
+        {
+          "text": "market close on Thursday, August 6, 2026, with consensus near $1.32 EPS on about $1.43 billion revenue, a print several analysts frame as a 'higher bar' after recent gains",
+          "url": null
+        },
+        {
+          "text": "July catalysts include Stifel's July 10 upgrade to Buy (target to $260 from $175), Citizens JMP's July 20 raise to $250, and Wells Fargo's move to $225, alongside a Google collaboration that drew mixed reactions",
+          "url": null
+        }
+      ],
+      "redFlags": [
+        {
+          "text": "The clearest flags are heavy insider selling (about $342.2 million over three months and a 1,000,000-share, $184 million May sale by a director) and an outstanding RBC Capital Sell rating from Rishi Jaluria with a $120 target reiterated July 15",
+          "url": null
+        },
+        {
+          "text": "TipRanks notes negative corporate-insider sentiment across 75 insiders",
+          "url": null
+        },
+        {
+          "text": "No litigation or guidance cut was found; FY2026 guidance was raised",
+          "url": null
+        }
+      ],
+      "narrative": [
+        {
+          "text": "The consensus is a Buy, with MarketBeat showing 23 buys among 26 analysts and an average target of about $219.23, though targets are widely dispersed from RBC's $120 to a $300 high",
+          "url": null
+        },
+        {
+          "text": "July saw a cluster of bullish revisions (Stifel, Citizens JMP, Mizuho to $240, TD Cowen to $245, Wells Fargo to $225) even as the stock sold off",
+          "url": null
+        },
+        {
+          "text": "Sentiment cooled with a roughly 10% weekly decline into late July",
+          "url": null
+        }
+      ],
+      "industry": [
+        {
+          "text": "Tailwind: AI-era customer engagement is driving above-consensus demand across messaging, voice and self-service, with voice AI increasingly contributing to volume growth",
+          "url": null
+        },
+        {
+          "text": "Tailwind or Headwind: A large communications TAM (cited near $158 billion by 2028) supports growth, but recurring carrier price increases pressure messaging economics",
+          "url": null
+        },
+        {
+          "text": "Headwind: Competition is intensifying, with a Twilio-Google collaboration prompting concerns that the company's historical moat in developer communications is eroding",
+          "url": null
+        }
+      ],
+      "verdict": "Twilio's return to GAAP profitability, 20% revenue growth and raised 14-15% FY2026 guidance support a genuine AI-driven turnaround thesis. But persistent multi-hundred-million-dollar insider selling, an RBC Sell rating, and valuation models flagging significant overvaluation temper the upside as the August 6 earnings bar rises sharply.",
+      "sources": [
+        {
+          "label": "MarketBeat - Citizens JMP target to $250, Q1 results and consensus",
+          "url": "https://www.marketbeat.com/instant-alerts/twilio-nysetwlo-given-new-25000-price-target-at-citizens-jmp-2026-07-20/"
+        },
+        {
+          "label": "Weiss Ratings - TWLO July 21 pullback and Q1 earnings detail",
+          "url": "https://weissratings.com/en/instant-news-alerts/twilio-inc-twlo-down-4-8-time-to-reverse-course"
+        },
+        {
+          "label": "GuruFocus - Wells Fargo target to $225, GF Value and insider selling",
+          "url": "https://www.gurufocus.com/news/8966851/twlo-maintains-overweight-by-wells-fargo-price-target-raised-to-225"
+        },
+        {
+          "label": "TipRanks - RBC Sell rating $120 and director insider sale",
+          "url": "https://www.tipranks.com/news/blurbs/twilio-twlo-new-sell-recommendation-for-this-technology-giant-blurbs-news-2"
+        },
+        {
+          "label": "MarketScreener - Q2 2026 earnings date August 6 and Stifel upgrade",
+          "url": "https://www.marketscreener.com/news/twilio-to-announce-second-quarter-2026-results-on-august-6-2026-ce7f51dbd981f62c"
+        },
+        {
+          "label": "Investing.com - Mizuho raise to $240, AI demand and guidance",
+          "url": "https://www.investing.com/news/analyst-ratings/mizuho-raises-twilio-stock-price-target-on-strong-growth-outlook-93CH-4798114"
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "HUT",
+    "name": "Hut 8 Corporation",
+    "sector": "Financial",
+    "industry": "Financial Svcs-Specialty",
+    "marketCapM": 12761.4,
+    "avgDollarVolM": 476.003,
+    "price": 112.33,
+    "priceChangePct": 4.0,
+    "volume": 3650,
+    "volVsAvgPct": 38.6,
+    "epsRating": 7,
+    "rsRating": 99,
+    "smrRating": 37,
+    "adRating": "B-",
+    "compositeRating": 56,
+    "groupRank": 150,
+    "offHighPct": -22.6,
+    "baseStatus": "Complete",
+    "weeksInBase": 15,
+    "pivotChangePct": 66.2782,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        {
+          "text": "Hut 8 signed a second 15-year, $9.8 billion triple-net lease on July 20, 2026 for 352 MW at its Beacon Point campus, fully commercializing the 1 GW Texas site",
+          "url": null
+        },
+        {
+          "text": "The deal doubles the investment-grade tenant's contracted capacity to 704 MW and lifts campus base-term contract value to $19.6 billion, with about $1.31 billion average annual NOI once stabilized",
+          "url": null
+        },
+        {
+          "text": "CEO Asher Genoot said Hut 8 now has roughly $27 billion in contracted AI revenue and about $1.75 billion in annualized EBITDA, up from zero contracted AI revenue a year ago",
+          "url": null
+        }
+      ],
+      "bearCase": [
+        {
+          "text": "Q1 2026 produced a $253.1 million net loss and negative digital-infrastructure margins, with reported EPS of -$1.98 missing the -$0.33 consensus",
+          "url": null
+        },
+        {
+          "text": "Independent analysis does not expect material AI revenue until Q2 2027, leaving a multi-year gap before contracted leases convert to cash",
+          "url": null
+        },
+        {
+          "text": "The stock carries extreme volatility (beta cited between 3.77 and 6.07) and appears on InvestingPro's Most Overvalued list after a roughly 400%-plus one-year gain",
+          "url": null
+        }
+      ],
+      "catalysts": [
+        {
+          "text": "The dominant catalyst was the July 20, 2026 announcement of a second $9.8 billion Beacon Point lease, which sent shares up 10-16% intraday and fully commercialized the 1 GW campus",
+          "url": null
+        },
+        {
+          "text": "Attention now turns to Q2 2026 earnings on August 4, 2026, which Benchmark warned could be 'messy' due to mark-to-market Bitcoin accounting",
+          "url": null
+        },
+        {
+          "text": "First Phase 2 data-hall delivery is expected in Q2 2028",
+          "url": null
+        }
+      ],
+      "redFlags": [
+        {
+          "text": "The principal financial flag is the large Q1 2026 net loss of about $253.1 million driven by digital-asset mark-to-market adjustments, and CleaRank notes insiders are net sellers with over $13.4 million in sales against zero purchases",
+          "url": null
+        },
+        {
+          "text": "Benchmark cautioned that Q2 results due August 4 may be 'messy.' No active litigation or formal guidance cut was found, and the lease news was strongly positive",
+          "url": null
+        }
+      ],
+      "narrative": [
+        {
+          "text": "Analysts are strongly positive, with MarketBeat showing a Moderate Buy from 18 analysts (17 buys, 1 sell) and an average target near $121.26, while Public.com cites a Strong Buy",
+          "url": null
+        },
+        {
+          "text": "July target hikes were aggressive: Benchmark to $195, Needham to $145, Rosenblatt reiterated Buy at $124, and Lucid Capital Markets initiated at $226",
+          "url": null
+        },
+        {
+          "text": "Stocktwits retail sentiment flipped to bullish from bearish on the lease news",
+          "url": null
+        }
+      ],
+      "industry": [
+        {
+          "text": "Tailwind: Surging demand for Nvidia-powered AI data-center capacity is re-rating former Bitcoin miners into contracted-revenue infrastructure landlords",
+          "url": null
+        },
+        {
+          "text": "Tailwind or Headwind: Long-duration triple-net AI leases with 3% annual escalators improve cash-flow visibility, but require heavy 2026-2028 capital and construction execution",
+          "url": null
+        },
+        {
+          "text": "Headwind: The Bitcoin mining unit faces declining revenue per Bitcoin and digital-asset price volatility that injects earnings noise through mark-to-market accounting",
+          "url": null
+        }
+      ],
+      "verdict": "Hut 8's second $9.8 billion Beacon Point lease transforms it into a contracted AI-infrastructure landlord, with roughly $27 billion in booked AI revenue underpinning the bull case. Yet a $253 million Q1 net loss and no material AI revenue until 2028 make execution and valuation the defining risks.",
+      "sources": [
+        {
+          "label": "CoinDesk - Hut 8 jumps 14% on $9.8B Beacon Point lease",
+          "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector"
+        },
+        {
+          "label": "Stocktwits - Beacon Point fully booked, $19.6B contract value",
+          "url": "https://stocktwits.com/news-articles/markets/equity/hut-8-s-beacon-point-campus-fully-booked-second-9-8-billion-lease-doubles-tenant-s-footprint/cZZi2UyR7uj"
+        },
+        {
+          "label": "Barchart - Lease economics, NOI and 52-week performance",
+          "url": "https://www.barchart.com/story/news/3406627/a-19-billion-reason-to-buy-hut-8-stock-here"
+        },
+        {
+          "label": "MarketBeat - Rosenblatt Buy $124, analyst target detail",
+          "url": "https://www.marketbeat.com/instant-alerts/rosenblatt-securities-reiterates-buy-rating-for-hut-8-nasdaqhut-2026-07-21/"
+        },
+        {
+          "label": "Investing.com - Benchmark raises target to $195 on lease",
+          "url": "https://www.investing.com/news/analyst-ratings/benchmark-raises-hut-8-mining-stock-price-target-on-texas-data-center-lease-93CH-4806409"
+        },
+        {
+          "label": "Binance Square - CEO on $27B contracted AI revenue, Q1 loss",
+          "url": "https://www.binance.com/en/square/post/347326760219538"
+        },
+        {
+          "label": "MarketBeat - Hut 8 Q1 2026 EPS -$1.98, Q2 earnings Aug 4",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/HUT/earnings/"
+        }
+      ]
+    }
+  }
+]

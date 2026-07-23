@@ -1,0 +1,790 @@
+[
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "industry": "Elec-Semiconductor Fabless",
+    "sector": "Technology",
+    "marketCapM": 887747.6,
+    "avgDollarVolM": 17056.611,
+    "price": 544.43,
+    "volume": 290451,
+    "priceChangePct": 8.1,
+    "volVsAvgPct": -7.3,
+    "epsRating": 93,
+    "rsRating": 99,
+    "adRating": "B",
+    "compositeRating": 99,
+    "groupRank": 9,
+    "smrRating": 86,
+    "baseStatus": "Complete",
+    "weeksInBase": 14,
+    "pivotChangePct": 103.9369,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Microsoft committed to deploy AMD's Helios rack-scale systems at scale on Azure, validating AMD as a credible hyperscaler AI alternative to Nvidia.",
+        "Q1 2026 revenue rose 37.9% to $10.25B with Data Center up 57% to $5.78B; management guided Q2 to roughly $11.2B, implying about 46% growth.",
+        "UBS lifted its target to $700 and KeyBanc to $725 ahead of Advancing AI 2026, expecting hyperscaler deployments to significantly ramp GPU revenue into 2027."
+      ],
+      "bearCase": [
+        "Shares carry a trailing P/E near 186 and forward P/E around 69, leaving valuation highly exposed if the July event disappoints.",
+        "China export controls remain a live risk, with MI308 restrictions driving roughly $440 million in net FY2025 charges and threatening further tightening.",
+        "Nvidia could take share in the MI400 window, and UBS cautions investors to lower expectations for any official new-customer announcements at the technology-focused event."
+      ],
+      "catalysts": "AMD expanded its Microsoft partnership on July 20, with Azure committing to deploy Helios rack-scale systems shipping in second-half 2026. This validation preceded the July 22-23 Advancing AI 2026 event unveiling Zen 6 Venice, MI450x and MI500 roadmaps, alongside analyst target hikes toward $700-725.",
+      "redFlags": "No major controversies surfaced, but a CTO exercised and sold 6,000 shares at $556.43 on July 15 under a Rule 10b5-1 plan. UBS cautioned investors to temper expectations for official new-customer announcements, warning the event may emphasize technology roadmaps rather than material financial-model changes, a potential disappointment risk.",
+      "narrative": "The Street is decisively bullish, with a Strong Buy consensus and targets stretching to $755. Jefferies flags a likely Anthropic deal, UBS and KeyBanc raised targets to $700-725, and Reddit sentiment scored 72 (bullish), though UBS urges tempering customer-announcement expectations for the technology-focused Advancing AI event.",
+      "industry": [
+        "Tailwind: Surging hyperscaler AI capex and inference demand are expanding the addressable market, with AMD estimating its AI CPU/GPU opportunity now exceeds $200 billion.",
+        "Tailwind: TSMC's 2nm ramp enables next-gen fabless designs like Venice and MI450x, letting AMD challenge Nvidia on merit as hyperscalers seek supply diversification.",
+        "Headwind: US-China export controls constrain fabless chip sales, and TSMC lifting advanced-node prices up to 10% pressures fabless margins across the semiconductor supply chain."
+      ],
+      "verdict": "AMD offers a compelling AI-infrastructure growth story validated by the Microsoft Helios deal and strong Data Center momentum, but an extreme multiple leaves shares hostage to event execution. With the July 22-23 catalyst and export-control overhang unresolved, we view the risk-reward as balanced pending concrete customer and roadmap confirmation.",
+      "sources": [
+        {
+          "label": "24/7 Wall St. - AMD price target and Anthropic",
+          "url": "https://247wallst.com/investing/2026/07/20/amd-just-got-a-potential-ai-heavyweight-customer-heres-the-new-price-target/"
+        },
+        {
+          "label": "World Finance Report - AMD-Microsoft Helios deal",
+          "url": "https://worldfinreport.com/2026/07/20/amd-stock-gets-a-big-boost-from-microsoft-ahead-of-ai-event/"
+        },
+        {
+          "label": "Timothy Sykes - UBS raises AMD target to $700",
+          "url": "https://timothysykes.com/news/advanced-micro-devices-inc-amd-news-2026_07_20/"
+        },
+        {
+          "label": "AMD - Advancing AI 2026 event agenda",
+          "url": "https://www.amd.com/en/corporate/events/advancing-ai.html"
+        },
+        {
+          "label": "InsiderFinance - AMD volatility ahead of AI event",
+          "url": "https://www.insiderfinance.io/news/amd-stock-volatility-ahead-of-ai-event"
+        },
+        {
+          "label": "Bitget - UBS AMD AI conference preview",
+          "url": "https://www.bitget.com/amp/news/detail/12560605518954"
+        },
+        {
+          "label": "Chosun Biz - TSMC lifts chipmaking prices",
+          "url": "https://biz.chosun.com/en/en-it/2026/07/22/NB7KSA7NTBFLLJG777BZPQZVD4/"
+        },
+        {
+          "label": "MarketBeat - AMD shares up on analyst upgrade",
+          "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-shares-up-16-following-analyst-upgrade-2026-07-20/"
+        }
+      ]
+    },
+    "offHighPct": -13.88
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "industry": "Computer-Networking",
+    "sector": "Technology",
+    "marketCapM": 219831.5,
+    "avgDollarVolM": 1652.819,
+    "price": 174.58,
+    "volume": 63578,
+    "priceChangePct": 3.1,
+    "volVsAvgPct": -32.8,
+    "epsRating": 99,
+    "rsRating": 87,
+    "adRating": "B-",
+    "compositeRating": 99,
+    "groupRank": 13,
+    "smrRating": 99,
+    "baseStatus": "Complete",
+    "weeksInBase": 2,
+    "pivotChangePct": -1.634,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Buy Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Management raised 2026 revenue guidance to about $11.5B and doubled the AI Fabrics target to $3.5B; CEO Ullal called demand the best ever.",
+        "Q1 2026 revenue rose 35.1% to $2.71B with EPS of $0.87 beating $0.81; purchase commitments jumped to $8.9B, signaling strong forward orders.",
+        "Arista holds number-one share in greater-than-10-gigabit Ethernet switching, launched 1.6-terabit 7060XE7 platforms, and just expanded into branch security via AI-driven zero-trust ETM."
+      ],
+      "bearCase": [
+        "Gross margin compressed to 62.4% from 64.1% year-over-year as hyperscaler mix and rising component costs weigh, while industry-wide shortages may persist one to two years.",
+        "Persistent supply bottlenecks across wafers, optics, CPUs and memory, plus a $6.2B deferred-revenue balance, constrain how quickly record demand converts into reported sales.",
+        "Heavy insider selling continued, with CEO Ullal selling $43.9M and insiders offloading roughly 2.7 million shares over 90 days, alongside suspended buybacks."
+      ],
+      "catalysts": "Arista launched AI-driven Edge Threat Management for VeloCloud SD-WAN on July 21, expanding zero-trust branch security (available Q4 2026). Multiple pre-earnings previews flagged likely Q2 upside ahead of its August 4 report, driving shares up about 3% amid strong AI-networking demand and constructive Wolfe and JPMorgan notes.",
+      "redFlags": "No litigation or downgrades emerged, but insider selling drew scrutiny: CEO Jayshree Ullal sold 234,578 shares for $43.9M on July 10, and founder Andreas Bechtolsheim sold roughly $54.2M around July 14, with insiders offloading over 2.7M shares in 90 days. Trefis flagged suspended buybacks as cautionary.",
+      "narrative": "The Street remains firmly bullish, with a Buy consensus across 25 brokerages and a $188.95 target; Erste upgraded to Buy, Wolfe and JPMorgan reiterated Outperform/Buy, and Rosenblatt lifted its target to $210. Commentators frame Arista as a core AI-infrastructure winner, tempered by insider-selling and valuation caution.",
+      "industry": [
+        "Tailwind: Citi models hyperscaler data-center capex rising from $400B in 2025 to $731B in 2026, fueling an AI-driven Ethernet upgrade cycle.",
+        "Tailwind: Ethernet switching is becoming the heart of AI factories, with the top five suppliers holding under 48% combined share, aiding specialists.",
+        "Headwind: Industry-wide component shortages across wafers, silicon, optics and memory are expected to persist one to two years, creating demand-supply imbalance and margin pressure."
+      ],
+      "verdict": "Arista sits at the center of the AI-networking upgrade cycle with record demand, rising guidance and a deep order book, but supply constraints, margin compression and insider selling temper the premium-multiple thesis. Ahead of August 4 earnings, long-term positioning balances near-term execution risk.",
+      "sources": [
+        {
+          "label": "247wallst - 3 Not-So-Obvious AI Stocks (ANET)",
+          "url": "https://247wallst.com/investing/2026/07/20/3-not-so-obvious-ai-stocks-to-buy-in-july/"
+        },
+        {
+          "label": "MarketBeat - ANET average Buy rating and insider selling",
+          "url": "https://www.marketbeat.com/instant-alerts/arista-networks-inc-nyseanet-receives-average-rating-of-buy-from-analysts-2026-07-17/"
+        },
+        {
+          "label": "Sahm Capital - ANET AI demand meets supply strains",
+          "url": "https://www.sahmcapital.com/news/content/arista-networks-anet-is-down-50-after-record-ai-demand-meets-supply-chain-strains-whats-changed-2026-07-16"
+        },
+        {
+          "label": "Stock Titan - Arista AI-driven zero trust branch launch",
+          "url": "https://www.stocktitan.net/news/ANET/arista-networks-introduces-ai-driven-zero-trust-zp7i2f3kdv1b.html"
+        },
+        {
+          "label": "MarketBeat - ANET trading 3% higher, buybacks halted",
+          "url": "https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-trading-3-higher-whats-next-2026-07-21/"
+        },
+        {
+          "label": "MarketBeat - Andra AP fonden buys ANET, CEO sale",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-purchases-46000-shares-of-arista-networks-inc-anet-2026-07-21/"
+        },
+        {
+          "label": "Investing.com - Bechtolsheim sells $54.2M ANET",
+          "url": "https://in.investing.com/news/stock-market-news/andreas-bechtolsheim-sells-542m-in-arista-networks-nasdaqanet-shares-93CH-5500660"
+        },
+        {
+          "label": "TradingView/Zacks - Arista supply-chain shortcomings",
+          "url": "https://www.tradingview.com/news/zacks:b024bcb53094b:0-can-arista-tide-over-supply-chain-shortcomings-to-revive-its-mojo/"
+        },
+        {
+          "label": "Tickeron - ANET analyst targets and catalysts",
+          "url": "https://tickeron.com/ticker/ANET/"
+        },
+        {
+          "label": "Noah News - Data centre Ethernet market surges",
+          "url": "https://noah-news.com/data-centre-ethernet-market-surges-as-ai-and-optical-networking-drive-a-new-upgr/"
+        },
+        {
+          "label": "650 Group - Ethernet switching heart of AI factories",
+          "url": "https://650group.com/blog/ethernet-switching-is-the-heart-of-ai-factories/"
+        },
+        {
+          "label": "Arista - Q2 2026 results August 4 announcement",
+          "url": "https://www.arista.com/en/"
+        }
+      ]
+    },
+    "offHighPct": -10.78
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol Corp Cl A",
+    "industry": "Electronic-Parts",
+    "sector": "Technology",
+    "marketCapM": 193982.3,
+    "avgDollarVolM": 1566.296,
+    "price": 157.81,
+    "volume": 64871,
+    "priceChangePct": 4.9,
+    "volVsAvgPct": -34.6,
+    "epsRating": 99,
+    "rsRating": 84,
+    "adRating": "B+",
+    "compositeRating": 99,
+    "groupRank": 16,
+    "smrRating": 97,
+    "baseStatus": "Complete",
+    "weeksInBase": 6,
+    "pivotChangePct": 1.5137,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Buy Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Q1 2026 revenue surged 58.4% year-over-year to $7.62B with EPS of $1.06 beating $0.95, driven by high-speed interconnect and sensor demand for AI infrastructure.",
+        "Q2 2026 guidance projects sales of $8.1-8.2B (43-45% growth) and EPS of $1.14-1.16; Evercore ISI sees the CommScope deal contributing $4.6-4.9B, above conservative $4.1B guidance.",
+        "Analysts are broadly constructive with 14 Buys and a Moderate Buy consensus; Goldman set $201, BNP Paribas $200, and UBS lifted to $185."
+      ],
+      "bearCase": [
+        "Shares trade at roughly 43-45x trailing earnings, a premium leaving little room for error if AI-driven demand normalizes or CommScope integration disappoints against high expectations.",
+        "Insiders sold about 130,775 shares worth $18.7M over three months, including CEO Norwitt's 61,072-share, $8.8M sale on May 1, signaling some management profit-taking.",
+        "A debt-to-equity ratio of 1.18 and reliance on cyclical end markets like automotive and industrial add balance-sheet and demand-cyclicality risk beyond the AI datacenter tailwind."
+      ],
+      "catalysts": "Amphenol paid its $0.25 quarterly dividend on July 15 to holders of record June 23, and drew fresh institutional buying, with AIA Group lifting its stake 74.7%. Evercore ISI reiterated Outperform with a $180 target on July 16 ahead of the July 29 Q2 report, expecting about $8.23B revenue.",
+      "redFlags": "No litigation, downgrades or guidance cuts emerged; the main flag is insider selling, with roughly 130,775 shares worth $18.7M sold over three months, including CEO Richard Norwitt's 61,072-share, $8.79M disposal on May 1. Institutional activity was net positive, and analyst sentiment stayed constructive into the July 29 report.",
+      "narrative": "The Street views Amphenol as a high-quality AI-infrastructure interconnect and sensor beneficiary, with a Moderate Buy consensus and a $186 average target. Evercore, Goldman ($201) and BNP ($200) are constructive, framing CommScope accretion as conservative, while some caution centers on premium valuation and insider selling.",
+      "industry": [
+        "Tailwind: AI datacenter buildouts are driving surging demand for high-speed interconnects, connectors and sensors, with copper hitting limits pushing adoption of optical and advanced connectivity.",
+        "Tailwind: Diversified end markets (military/aerospace, automotive, telecom, industrial) plus M&A like CommScope broaden Amphenol's addressable market and cushion single-segment cyclicality.",
+        "Headwind: Complex global supply chains and cyclical exposure to automotive and industrial demand create margin and volume risk if macro conditions or component availability deteriorate."
+      ],
+      "verdict": "Amphenol pairs exceptional AI-driven growth, strong Q2 guidance and constructive analyst support with a diversified, acquisitive model, but a premium multiple and steady insider selling warrant discipline. With Q2 results due July 29 and CommScope accretion potentially conservative, we view the setup as favorably positioned yet priced for continued execution.",
+      "sources": [
+        {
+          "label": "MarketBeat - AIA Group buys APH, earnings and dividend",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-aia-group-ltd-buys-56564-shares-of-amphenol-corporation-aph-2026-07-19/"
+        },
+        {
+          "label": "Investing.com - Evercore ISI reiterates APH, CommScope",
+          "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-amphenol-stock-rating-ahead-of-earnings-93CH-4795245"
+        },
+        {
+          "label": "Zacks - Amphenol rises 17% YTD, Q2 estimates",
+          "url": "https://www.zacks.com/stock/news/2950463/amphenol-rises-17-year-to-date-buy-sell-or-hold-the-stock"
+        },
+        {
+          "label": "MarketBeat - APH earnings date July 29",
+          "url": "https://www.marketbeat.com/stocks/NYSE/APH/earnings/"
+        },
+        {
+          "label": "Kavout - Amphenol AI dominance, insider selling",
+          "url": "https://www.kavout.com/market-lens/amphenol-s-ai-dominance-why-institutions-are-buying-despite-insider-selling"
+        },
+        {
+          "label": "MarketBeat - Rep. Dan Newhouse buys APH",
+          "url": "https://www.marketbeat.com/instant-alerts/amphenol-nyseaph-stock-acquired-rep-dan-newhouse-2026-07-21/"
+        },
+        {
+          "label": "Stock Titan - APH overview financials",
+          "url": "https://www.stocktitan.net/overview/APH/"
+        },
+        {
+          "label": "aioapex - Copper hits limit, light takes over in AI datacenters",
+          "url": "https://aioapex.com/en/blog/copper-finally-hit-its-limit-inside-ai-data-centers-and-light-is-taking-over-mroj716t"
+        }
+      ]
+    },
+    "offHighPct": -15.69
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health Corp",
+    "industry": "Medical-Managed Care",
+    "sector": "Health Care",
+    "marketCapM": 141117.5,
+    "avgDollarVolM": 931.871,
+    "price": 110.6,
+    "volume": 98562,
+    "priceChangePct": 2.8,
+    "volVsAvgPct": 17,
+    "epsRating": 53,
+    "rsRating": 94,
+    "adRating": "A+",
+    "compositeRating": 87,
+    "groupRank": 37,
+    "smrRating": 49,
+    "baseStatus": "Complete",
+    "weeksInBase": 11,
+    "pivotChangePct": 29.8884,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Up on Volume",
+    "analysis": {
+      "bullCase": [
+        "Aetna turnaround is delivering, with Q1 2026 adjusted EPS of $2.57 up 14% and raised full-year guidance of $7.30-$7.50 confirming earnings traction.",
+        "Balance sheet strengthening drove S&P outlook revision to Stable, leverage improving to 3.84x, with management guiding operating cash flow of at least $9.5 billion.",
+        "Shares hit a fresh 52-week high near $110, up roughly 74% over the past year, backed by GLP-1 expansion and rising analyst targets."
+      ],
+      "bearCase": [
+        "Valuation looks stretched after the rally, trading near a 46x trailing P/E versus a healthcare industry average around 25x, pricing in much optimism already.",
+        "Medicare Advantage reimbursement rates remain, per management, insufficient to offset medical cost trends, and 2027 MA funding was cut sharply industry-wide.",
+        "Legal overhangs persist: a $440 million Omnicare DOJ settlement plus new 340B pricing lawsuits from Henry Ford, University of Michigan seeking treble RICO damages."
+      ],
+      "catalysts": "CVS scheduled its Q2 earnings call for August 5, opened its first pharmacy-focused Houston store amid a nearly 20-site rollout, launched pet medications across 9,000 pharmacies, unveiled a Google-built Health100 AI platform, and declared a $0.665 quarterly dividend, pushing shares to fresh 52-week highs.",
+      "redFlags": "CVS faces new 340B pricing lawsuits from Henry Ford Health, University of Michigan and Sparrow seeking treble RICO damages exceeding $90 million and $66 million; separately, a $440 million Omnicare DOJ False Claims settlement awaits August 12 court approval, while valuation screens flag the stock as overvalued.",
+      "narrative": "The Street has turned constructive, with a Moderate-to-Strong Buy consensus and targets to $123 as analysts credit the Joyner turnaround, Aetna margin recovery and GLP-1 access; Cramer endorsed it, though media commentary increasingly frames the stock as fully valued after doubling.",
+      "industry": [
+        "Headwind: 2027 Medicare Advantage funding was cut to less than half of last year's rate increase, with average MLR over 90% pressuring managed-care margins industrywide.",
+        "Tailwind: GLP-1 weight-loss drug demand and a new Medicare GLP-1 Bridge Program expand pharmacy and care-delivery revenue opportunities across integrated health platforms like CVS.",
+        "Tailwind: PBM regulatory settlements pushing rebate transparency reduce litigation overhang, letting large integrated players demonstrate affordability leadership and preempt harsher legislative action."
+      ],
+      "verdict": "CVS offers a credible turnaround with improving Aetna margins, deleveraging and diversification catalysts, but the 46x multiple and 74% run leave little cushion. Managed-care funding cuts and mounting 340B litigation temper enthusiasm. A balanced, fairly-valued name where execution must now justify a premium re-rating.",
+      "sources": [
+        {
+          "label": "Tickeron CVS analysis",
+          "url": "https://tickeron.com/ticker/CVS/"
+        },
+        {
+          "label": "MarketBeat CVS 52-week high",
+          "url": "https://www.marketbeat.com/instant-alerts/cvs-health-nysecvs-hits-new-1-year-high-heres-what-happened-2026-07-21/"
+        },
+        {
+          "label": "TIKR CVS analysis",
+          "url": "https://www.tikr.com/blog/cvs-stock-analysis-is-the-high-yield-worth-the-turnaround-risk"
+        },
+        {
+          "label": "MarketScreener Omnicare DOJ settlement",
+          "url": "https://www.marketscreener.com/news/doj-omnicare-and-cvs-reach-settlement-over-decade-long-false-claims-act-dispute-ce7f5ed3d18ef42c"
+        },
+        {
+          "label": "Ground News CVS FTC settlement",
+          "url": "https://ground.news/article/cvs-caremark-announces-agreement-with-ftc-to-further-advance-industry-leading-approaches-to-transparency-and-affordability_0ff747"
+        },
+        {
+          "label": "Axios CVS Health100 AI platform",
+          "url": "https://www.axios.com/2026/07/16/cvs-health-care-ai-google-agents"
+        },
+        {
+          "label": "MLive Henry Ford 340B lawsuit",
+          "url": "https://www.mlive.com/news/detroit/2026/07/henry-ford-health-sues-cvs-over-alleged-29-million-pricing-scheme.html"
+        },
+        {
+          "label": "Sahm Capital CVS valuation",
+          "url": "https://www.sahmcapital.com/news/content/cvs-health-cvs-stock-looks-fully-valued-as-returns-shine-and-earnings-look-rich-2026-07-17"
+        },
+        {
+          "label": "CVS Health Houston pharmacy",
+          "url": "https://www.cvshealth.com/news/retail/cvs-pharmacy-celebrates-opening-of-first-pharmacy-focused-location-in-houston.html"
+        },
+        {
+          "label": "Yahoo Finance CVS market returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-health-cvs-surpasses-market-214503749.html"
+        },
+        {
+          "label": "Trefis CVS valuation",
+          "url": "https://www.trefis.com/stock/cvs/articles/607495/the-real-price-of-admission-for-cvs-health-stock/2026-07-16"
+        },
+        {
+          "label": "MarketBeat CVS forecast",
+          "url": "https://www.marketbeat.com/stocks/NYSE/CVS/forecast/"
+        },
+        {
+          "label": "Macroaxis CVS Cramer",
+          "url": "https://www.macroaxis.com/invest/history/CVS--CVS-Health-Corp-traded-on--07-13-2026"
+        },
+        {
+          "label": "Matterfact managed care 2027 MA funding",
+          "url": "https://www.matterfact.com/newsletter/2026-06-27-ma-2027-funding-halved-medicare-glp1-bridge"
+        },
+        {
+          "label": "Yahoo Finance CVS dividend GLP-1",
+          "url": "https://finance.yahoo.com/healthcare/articles/investors-may-respond-cvs-cvs-032815714.html"
+        }
+      ]
+    },
+    "offHighPct": -1.25
+  },
+  {
+    "ticker": "CRWD",
+    "name": "Crowdstrike Holdings A",
+    "industry": "Computer Sftwr-Security",
+    "sector": "Technology",
+    "marketCapM": 48478.3,
+    "avgDollarVolM": 2456.125,
+    "price": 191.15,
+    "volume": 98802,
+    "priceChangePct": -3.7,
+    "volVsAvgPct": -23.1,
+    "epsRating": 98,
+    "rsRating": 96,
+    "adRating": "B",
+    "compositeRating": 99,
+    "groupRank": 12,
+    "smrRating": 94,
+    "baseStatus": "Complete",
+    "weeksInBase": 10,
+    "pivotChangePct": 34.8739,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Down in Price",
+    "analysis": {
+      "bullCase": [
+        "Q1 FY27 delivered 26% revenue growth to $1.39 billion, net new ARR up 32%, and a record 24% non-GAAP operating margin, prompting raised guidance.",
+        "AI tailwinds are compounding, with Anthropic and OpenAI adopting Falcon, Next-Gen Identity ARR surpassing $520 million, and new AI Detection and Response products gaining traction.",
+        "Analysts remain broadly bullish with a Buy consensus; recent targets rose sharply, Citi to $250 and BTIG to $237, on AI-driven demand."
+      ],
+      "bearCase": [
+        "Valuation is extreme at roughly 38x trailing price-to-sales, well above cybersecurity peers, leaving the stock priced for perfection and vulnerable to any growth deceleration.",
+        "Shares trade above several consensus targets; some models flag double-digit downside, and the stock just slid 9.3% over five straight down days on profit-taking.",
+        "CEO George Kurtz sold roughly $3.9 million of stock in mid-July under a 10b5-1 plan, with a Form 144 flagging 650,000 more shares."
+      ],
+      "catalysts": "CrowdStrike expanded its Schwarz Digits partnership to bring Falcon to Europe via STACKIT and signed a deal to acquire XM Cyber's intellectual property; it appointed AJ Shipley Chief Product Officer, was named Frost & Sullivan's ITDR Company of the Year, and completed a 4-for-1 split.",
+      "redFlags": "CEO George Kurtz sold about $3.9 million of Class A stock in mid-July under a 10b5-1 plan, with a Form 144 disclosing up to 650,000 shares worth roughly $132 million; the stock fell for five consecutive sessions, and multiple valuation models flag CRWD as significantly overvalued.",
+      "narrative": "Wall Street is largely bullish, framing CrowdStrike as the premier AI-native cybersecurity platform benefiting from an agentic-AI security boom, though Morgan Stanley warns sentiment on software turned 'too negative' short-term; commentators repeatedly flag the premium valuation as the central debate despite consistent execution and guidance raises.",
+      "industry": [
+        "Tailwind: proliferation of AI agents is accelerating cybersecurity's share of enterprise IT spending, with Citi's wealth CIO forecasting 'infinite AI agents' driving durable secular demand.",
+        "Tailwind: cybersecurity stocks held near highs while the broader AI trade wobbled, suggesting defensive rotation into security names as mission-critical, recurring-revenue enterprise spending.",
+        "Headwind: sector valuations are richly priced, and any enterprise IT budget tightening or AI-spend digestion could compress multiples across high-growth software security peers."
+      ],
+      "verdict": "CrowdStrike combines best-in-class growth, expanding margins and clear AI leadership, reinforced by the XM Cyber IP deal and European expansion. Yet a ~38x price-to-sales multiple, trading above targets, insider selling and a five-day slide argue for caution. A high-quality compounder priced for perfection; accumulate on weakness.",
+      "sources": [
+        {
+          "label": "Public.com CRWD forecast",
+          "url": "https://public.com/stocks/crwd/forecast-price-target"
+        },
+        {
+          "label": "TIKR CRWD analysis",
+          "url": "https://www.tikr.com/blog/crowdstrike-stock-is-trading-above-wall-streets-price-target-heres-why"
+        },
+        {
+          "label": "CrowdStrike Schwarz Digits XM Cyber",
+          "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-and-schwarz-digits-expand-strategic-partnership"
+        },
+        {
+          "label": "Investing.com Kurtz insider sale",
+          "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-392-million-in-company-stock-93CH-4794565?ampMode=1"
+        },
+        {
+          "label": "Yahoo Finance Frost & Sullivan ITDR",
+          "url": "https://finance.yahoo.com/technology/ai/articles/frost-sullivan-crowdstrike-named-company-170000034.html"
+        },
+        {
+          "label": "BTIG raises CRWD target",
+          "url": "https://www.investing.com/news/analyst-ratings/btig-raises-crowdstrike-stock-price-target-to-237-on-ai-tailwinds-93CH-4792847"
+        },
+        {
+          "label": "Trefis CRWD five-day slide",
+          "url": "https://www.trefis.com/stock/crwd/articles/608383/crowdstrike-stock-slides-9-3-over-5-straight-down-days/2026-07-22"
+        },
+        {
+          "label": "QuiverQuant CRWD down today",
+          "url": "https://www.quiverquant.com/news/Why+CrowdStrike+(CRWD)+Stock+Is+Down+Today"
+        },
+        {
+          "label": "Kavout CRWD split premium",
+          "url": "https://www.kavout.com/market-lens/crowdstrike-s-split-a-lower-price-tag-but-the-same-premium-problem"
+        },
+        {
+          "label": "MarketBeat CRWD news",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/CRWD/news/"
+        },
+        {
+          "label": "MarketScreener CRWD XM Cyber agreement",
+          "url": "https://www.marketscreener.com/news/crowdstrike-holdings-inc-signed-a-definitive-agreement-intellectual-property-of-xm-cyber-ltd-ce7f5ed3da8df024"
+        },
+        {
+          "label": "CrowdStrike investor relations",
+          "url": "https://crowdstrike.gcs-web.com/investor-relations/"
+        },
+        {
+          "label": "Rosenblatt CRWD split target",
+          "url": "https://www.rblt.com/news/rosenblatt-adjusts-crowdstrike-stock-price-target-to-206-after-split"
+        }
+      ]
+    },
+    "offHighPct": -8.74
+  },
+  {
+    "ticker": "CRS",
+    "name": "Carpenter Technology Corp",
+    "industry": "Aerospace/Defense",
+    "sector": "Capital Equipment",
+    "marketCapM": 29264,
+    "avgDollarVolM": 435.735,
+    "price": 588.99,
+    "volume": 6204,
+    "priceChangePct": 6.1,
+    "volVsAvgPct": -16.1,
+    "epsRating": 98,
+    "rsRating": 97,
+    "adRating": "B+",
+    "compositeRating": 97,
+    "groupRank": 92,
+    "smrRating": 76,
+    "baseStatus": "Complete",
+    "weeksInBase": 28,
+    "pivotChangePct": 72.1639,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Record Q3 FY26 results showed adjusted operating income of $186.5 million up 20% sequentially, EPS of $2.77 beating by $0.18, on revenue near $811 million.",
+        "Zacks upgraded CRS to Strong Buy and lifted FY27 EPS estimates to $12.12, while JPMorgan and Susquehanna maintain Buy ratings targeting up to $705.",
+        "Institutional conviction is rising: Jennison Associates opened a new $317 million position, and shares are up roughly 87% year-to-date near their 52-week high."
+      ],
+      "bearCase": [
+        "Valuation is stretched at roughly 58-61x earnings; GuruFocus pegs fair value at $188 versus a ~$589 price, labeling shares significantly overvalued by over 200%.",
+        "Insiders sold about $6.6 million of stock over the past three months with no buying, and an alt-data model signals bearish momentum into earnings.",
+        "Defense demand faces uncertainty from potential government-shutdown disruptions, and results remain exposed to volatile customer buying patterns and key input-cost swings."
+      ],
+      "catalysts": "Carpenter set its Q4 FY26 earnings call for July 30; Zacks upgraded CRS to Strong Buy on July 17 and lifted FY27 EPS estimates to $12.12 on July 20, sparking a 5-6% rally. Jennison Associates disclosed a new $317 million stake, and multiple institutions added shares.",
+      "redFlags": "Insiders sold roughly $6.6 million of Carpenter stock over the last three months with no offsetting buying, per GuruFocus, which flags the shares as significantly overvalued near $589 against a $187.82 fair-value estimate; an alt-data model also signals bearish momentum into the July 30 earnings print.",
+      "narrative": "The Street is decidedly bullish, with a Strong Buy/Buy consensus, Zacks' upgrade, JPMorgan's $705 target and Cramer's endorsement framing CRS as a premier aerospace specialty-alloys momentum play; institutions are accumulating aggressively, though valuation-focused commentators warn the run has outpaced fundamentals ahead of earnings.",
+      "industry": [
+        "Tailwind: robust commercial aerospace and defense demand is driving record specialty-alloy backlogs above $1.4 billion, boosting pricing power and capacity utilization for Carpenter.",
+        "Tailwind: reshoring and rising defense budgets support sustained titanium, powder-metal and high-performance alloy volumes across aircraft engine and structural component supply chains.",
+        "Headwind: potential U.S. government-shutdown disruptions and cyclical, lumpy customer buying patterns create demand uncertainty and revenue volatility in the defense end-market."
+      ],
+      "verdict": "Carpenter's record margins, expanding aerospace backlog, estimate upgrades and institutional buying underpin a strong fundamental story. However, a 58x multiple, 200%-plus premium to intrinsic-value models, and insider selling raise risk into the July 30 print. A high-quality cyclical winner where valuation now demands flawless execution.",
+      "sources": [
+        {
+          "label": "Weiss Ratings CRS rally",
+          "url": "https://weissratings.com/en/instant-news-alerts/carpenter-technology-corporation-crs-up-5-2-is-this-where-smart-money-enters"
+        },
+        {
+          "label": "MarketBeat Jennison new stake",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-jennison-associates-llc-purchases-new-holdings-in-carpenter-technology-corporation-crs-2026-07-19/"
+        },
+        {
+          "label": "GuruFocus CRS overvalued",
+          "url": "https://www.gurufocus.com/news/8970291/is-carpenter-technology-corp-crs-overvalued-after-61-rally-gf-value-says-overvalued"
+        },
+        {
+          "label": "Public.com CRS forecast",
+          "url": "https://public.com/stocks/crs/forecast-price-target"
+        },
+        {
+          "label": "Yahoo Finance CRS sales gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sales-gains-send-carpenter-technology-113733690.html"
+        },
+        {
+          "label": "Investing.com CRS consensus estimates",
+          "url": "https://www.investing.com/equities/carpenter-technology-corp-consensus-estimates"
+        },
+        {
+          "label": "AltIndex CRS earnings prediction",
+          "url": "https://altindex.com/earnings-calendar/crs"
+        },
+        {
+          "label": "Zacks CRS recommendation",
+          "url": "https://www.zacks.com/zer/preview_redesigned/2187901/preview"
+        },
+        {
+          "label": "ad-hoc-news CRS backlog demand",
+          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/crs-stock-trades-steady-as-carpenter-technology-eyes-demand-recovery/69788079"
+        },
+        {
+          "label": "Barchart CRS earnings date",
+          "url": "https://www.barchart.com/etfs-funds/quotes/CRS"
+        },
+        {
+          "label": "MarketBeat CRS profile",
+          "url": "https://www.marketbeat.com/stocks/NYSE/CRS/"
+        },
+        {
+          "label": "MarketBeat CRS forecast",
+          "url": "https://www.marketbeat.com/stocks/NYSE/CRS/forecast/"
+        },
+        {
+          "label": "TradingView CRS",
+          "url": "https://www.tradingview.com/symbols/NYSE-CRS/"
+        }
+      ]
+    },
+    "offHighPct": -11.32
+  },
+  {
+    "ticker": "WWD",
+    "name": "Woodward Inc",
+    "industry": "Aerospace/Defense",
+    "sector": "Capital Equipment",
+    "marketCapM": 24358.5,
+    "avgDollarVolM": 308.041,
+    "price": 406.87,
+    "volume": 6516,
+    "priceChangePct": 4.1,
+    "volVsAvgPct": -13.9,
+    "epsRating": 97,
+    "rsRating": 90,
+    "adRating": "B-",
+    "compositeRating": 96,
+    "groupRank": 92,
+    "smrRating": 84,
+    "baseStatus": "Complete",
+    "weeksInBase": 5,
+    "pivotChangePct": -0.0319,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Buy Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Q2 FY26 beat with EPS $2.27 versus $2.10 expected and revenue up 23.4% to $1.09 billion, showing strong aerospace-driven operating momentum and fixed-cost leverage.",
+        "Deepening OEM aftermarket franchise: new HAECO Elite LRSF agreement supports the growing CFM LEAP fleet, expanding recurring MRO revenue across Asia-Pacific and China.",
+        "Capital returns support per-share results, with a fresh $1.8 billion buyback authorization, a $0.32 quarterly dividend, and a 50% Glatten capacity expansion funding growth."
+      ],
+      "bearCase": [
+        "Valuation is stretched: P/E near 47-48x and GuruFocus GF Value of $230.94 implies roughly 76% overvaluation versus the current ~$407 price, leaving little margin.",
+        "Average analyst price target of $395.50 sits below the current share price, signaling limited near-term upside and consensus caution after the stock's 246% run.",
+        "Persistent insider selling, with executives disposing of about $5.6 million of stock over three months, plus heavy aerospace OEM customer concentration risk."
+      ],
+      "catalysts": "Woodward inaugurated its expanded Glatten, Germany facility on July 21, lifting high-speed fuel injection capacity 50%, and signed an Elite LRSF agreement with HAECO to service CFM LEAP engines. It also scheduled fiscal Q3 results for July 29, declared a $0.32 dividend, and made TIME's America's Best Companies 2026 list.",
+      "redFlags": "No material red flags emerged in the July 15-22 window; however, insiders sold roughly $5.6 million in stock over three months with no buying, GuruFocus flags the shares as about 76% overvalued versus intrinsic value, and the average analyst target sits below the current price.",
+      "narrative": "The Street views Woodward as a high-quality aerospace-controls compounder riding the engine aftermarket and power-generation upcycle, upgraded by Zacks to Strong Buy and rated Moderate Buy overall. Yet commentary increasingly stresses valuation, with GuruFocus and the sub-price consensus target framing the stock as having run ahead of fundamentals.",
+      "industry": [
+        "Tailwind: record commercial aircraft build rates and a booming engine MRO aftermarket cycle drive sustained demand for Woodward's fuel, actuation and air-management components.",
+        "Tailwind: power-generation, marine and defense spending growth supports industrial energy-controls demand, prompting the Glatten capacity expansion for high-speed fuel injection systems.",
+        "Headwind: supply-chain constraints, concentration among a few large aerospace OEMs, and elevated sector valuations leave defense suppliers vulnerable to program delays or build-rate slowdowns."
+      ],
+      "verdict": "Woodward pairs genuine aerospace-aftermarket momentum, capacity expansion and buybacks against a demanding ~47x multiple, a consensus target below spot, and insider selling. We view it as a fundamentally strong name whose valuation prices in much good news; the July 29 print is the key checkpoint before adding.",
+      "sources": [
+        {
+          "label": "MarketBeat - WWD Forecast and Price Target",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/WWD/forecast/"
+        },
+        {
+          "label": "MarketBeat - Jennison stake cut, earnings, dividend, insider selling",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-woodward-inc-wwd-stock-position-decreased-by-jennison-associates-llc-2026-07-21/"
+        },
+        {
+          "label": "MarketScreener - Woodward Glatten expansion",
+          "url": "https://www.marketscreener.com/news/woodward-inaugurates-expanded-production-for-high-speed-fuel-injection-systems-in-glatten-germany-ce7f51d8d981f624"
+        },
+        {
+          "label": "StockTitan - Woodward HAECO LEAP agreement, earnings date, TIME list, dividend",
+          "url": "https://www.stocktitan.net/news/WWD/"
+        },
+        {
+          "label": "GuruFocus - WWD GF Value overvaluation",
+          "url": "https://www.gurufocus.com/news/8970309/woodward-inc-wwd-shares-surge-41-what-gf-score-of-89-tells-investors"
+        },
+        {
+          "label": "Sahm Capital - Woodward investment narrative recap",
+          "url": "https://www.sahmcapital.com/news/content/operational-momentum-and-buybacks-might-change-the-case-for-investing-in-woodward-wwd-2026-07-18"
+        }
+      ]
+    },
+    "offHighPct": -13.34
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris Inc",
+    "industry": "Medical-Generic Drugs",
+    "sector": "Health Care",
+    "marketCapM": 20484.5,
+    "avgDollarVolM": 179.847,
+    "price": 17.59,
+    "volume": 85491,
+    "priceChangePct": 3.5,
+    "volVsAvgPct": -16.4,
+    "epsRating": 63,
+    "rsRating": 94,
+    "adRating": "B-",
+    "compositeRating": 82,
+    "groupRank": 89,
+    "smrRating": 70,
+    "baseStatus": "Complete",
+    "weeksInBase": 1,
+    "pivotChangePct": 2.476,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Buy Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Shares hit a 52-week high near $17.59 with a ~94% one-year total return, as Q1 2026 beat expectations on $0.59 EPS and $3.52 billion revenue.",
+        "Advancing higher-value pipeline: positive Phase 3 VR-205 results in IgA nephropathy plus an FDA-accepted meloxicam NDA (PDUFA December 27) diversify beyond commodity generics.",
+        "Compelling value profile with a mid-teens P/E, roughly 4% dividend yield and multiple valuation models flagging the shares as undervalued relative to intrinsic estimates."
+      ],
+      "bearCase": [
+        "Bank of America reiterated a Sell rating in July, and consensus is only Hold, with the average price target near $17.50 implying minimal upside.",
+        "The FDA warning letter and import alert on the Indore manufacturing facility continues to pressure earnings, cutting the 2026 EBITDA estimate to roughly $4.36 billion.",
+        "Fundamentally weak trailing profitability, with a negative TTM net margin and prior net losses, plus limited visibility into a durable higher-growth strategy."
+      ],
+      "catalysts": "Viatris shares hit fresh 52-week highs in mid-July as it became a founding partner in the AAOS Pain Management Resource Center on July 16. Investors are positioning ahead of a July 30 FDA PDUFA decision on its low-dose estrogen weekly contraceptive patch and the August 6 second-quarter earnings release.",
+      "redFlags": "Bank of America kept its Sell rating in mid-July, and the FDA warning letter plus import alert on the Indore plant remains an unresolved overhang that has cut 2026 EBITDA estimates. An insider sold roughly 50,000 shares in late June, though no rating cut appeared in the July 15-22 window.",
+      "narrative": "The Street is split: value-oriented commentary and Simply Wall St models frame Viatris as a deeply undervalued turnaround with a strengthening pipeline, while sell-side consensus stays Hold and Bank of America at Sell. After a ~94% one-year run, the debate is whether recovery is priced in.",
+      "industry": [
+        "Headwind: generic-drug makers face structural pricing erosion, intense competition and FDA manufacturing scrutiny, exemplified by Viatris's Indore facility warning letter and import alert pressuring earnings.",
+        "Tailwind: aging populations and healthcare cost pressure sustain global demand for affordable generics and biosimilars, supporting Viatris's diversified worldwide portfolio and volume base.",
+        "Tailwind: pivoting toward complex generics, injectables and novel 505(b)(2)/branded assets (meloxicam, VR-205) offers higher margins and differentiation versus commoditized oral generics."
+      ],
+      "verdict": "Viatris offers a cheap, high-yield value setup with pipeline optionality and improving revenue, but faces a Hold consensus, a Bank of America Sell, and an unresolved Indore manufacturing overhang. With shares at 52-week highs near targets, risk/reward looks balanced pending the July 30 PDUFA and August 6 earnings.",
+      "sources": [
+        {
+          "label": "MarketBeat - VTRS Forecast and Price Target",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/VTRS/forecast/"
+        },
+        {
+          "label": "MarketBeat - VTRS news, BofA Sell rating",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/VTRS/"
+        },
+        {
+          "label": "Public.com - VTRS forecast, Indore facility and EBITDA cut",
+          "url": "https://public.com/stocks/vtrs/forecast-price-target"
+        },
+        {
+          "label": "Simply Wall St - Viatris pain management, fair value, one-year return",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-vtrs/viatris/news/viatris-vtrs-draws-fresh-attention-following-pain-management"
+        },
+        {
+          "label": "Investing.com - Viatris 52-week high, VR-205 and meloxicam NDA",
+          "url": "https://www.investing.com/news/company-news/viatris-stock-hits-52week-high-at-1754-93CH-4798581"
+        },
+        {
+          "label": "StockTitan - VTRS PDUFA July 30, insider selling, upcoming events",
+          "url": "https://www.stocktitan.net/overview/VTRS/"
+        },
+        {
+          "label": "Macroaxis - VTRS valuation, dividend yield, margins",
+          "url": "https://www.macroaxis.com/stock-analysis/VTRS/Viatris"
+        }
+      ]
+    },
+    "offHighPct": -3.85
+  },
+  {
+    "ticker": "ARW",
+    "name": "Arrow Electronics Inc",
+    "industry": "Electronic-Parts",
+    "sector": "Technology",
+    "marketCapM": 11056.5,
+    "avgDollarVolM": 141.912,
+    "price": 216.23,
+    "volume": 5176,
+    "priceChangePct": 5.2,
+    "volVsAvgPct": -21.1,
+    "epsRating": 82,
+    "rsRating": 95,
+    "adRating": "B-",
+    "compositeRating": 99,
+    "groupRank": 16,
+    "smrRating": 57,
+    "baseStatus": "Complete",
+    "weeksInBase": 14,
+    "pivotChangePct": 32.9746,
+    "leadershipFlag": "Leader",
+    "chartActionFlag": "Profit Booking Zone",
+    "priceVolAction": "Up in Price",
+    "analysis": {
+      "bullCase": [
+        "Explosive AI-driven momentum: Q1 2026 revenue rose 39% to $9.47 billion and non-GAAP EPS jumped to $5.22, crushing the $2.92 consensus estimate.",
+        "Attractive valuation for the growth, trading near 11-15x forward earnings and roughly 0.36x sales, a deep discount to the technology-distribution sector median.",
+        "Aggressive capital return via a new $1 billion buyback covering up to ~9.7% of shares, amplifying EPS alongside strong AI infrastructure demand tailwinds."
+      ],
+      "bearCase": [
+        "Wells Fargo maintained an Underweight/Sell rating on July 20 with a $175 target, implying downside, and GuruFocus GF Value of $152.30 flags ~36% overvaluation.",
+        "Thin distribution economics: net margin near 2% means Arrow captures little per AI dollar, and next-year EPS growth is projected at only about 4%.",
+        "Leadership uncertainty under an interim CEO, plus roughly $10.5 million of insider selling over three months and a lost Dell ECS distribution agreement, cloud confidence."
+      ],
+      "catalysts": "Arrow drew fresh attention in the July 15-22 window: Zacks named it a top value stock on July 21, and it earned the Microsoft Azure Virtual Desktop Specialization. Wells Fargo raised its target to $175 on July 20 while keeping Underweight, ahead of Q2 earnings July 30.",
+      "redFlags": "Wells Fargo reiterated an Underweight rating (July 20), and GuruFocus flags the shares roughly 36% above intrinsic value after a near-doubling year-to-date. Insiders sold about $10.5 million over three months, the company operates under an interim CEO, and it recently lost the Dell ECS distribution agreement, deemed immaterial by management.",
+      "narrative": "The Street is broadly constructive, rating Arrow a Moderate Buy and framing it as a cheap, overlooked AI-infrastructure play with surging data-center demand and heavy buybacks. Seeking Alpha and Zacks tout deep value, but Wells Fargo's Underweight and GuruFocus overvaluation warnings temper enthusiasm after the ~96% rally.",
+      "industry": [
+        "Tailwind: surging AI and data-center buildouts are reigniting demand for electronic components, memory, storage, networking and power products, driving 39% quarterly sales growth.",
+        "Headwind: electronics distribution is inherently low-margin (net margin ~2%) and cyclical, leaving distributors squeezed between supplier pricing and customer demands with limited value capture.",
+        "Headwind: supplier-relationship shifts, such as the terminated Dell ECS agreement, plus tariff and inventory cycle risks, create revenue concentration and margin volatility for component distributors."
+      ],
+      "verdict": "Arrow is a genuine AI-infrastructure beneficiary at a modest multiple with strong buybacks, but the thesis is tempered by razor-thin distribution margins, a Wells Fargo Underweight, GuruFocus overvaluation, interim leadership and insider selling. After a ~96% run, we see balanced risk/reward with the July 30 print pivotal.",
+      "sources": [
+        {
+          "label": "MarketBeat - ARW Forecast and Price Target",
+          "url": "https://www.marketbeat.com/stocks/NYSE/ARW/forecast/"
+        },
+        {
+          "label": "MarketBeat - Dimensional stake, earnings, buyback, analyst ratings, insider selling",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-dimensional-fund-advisors-lp-has-43128-million-stock-position-in-arrow-electronics-inc-arw-2026-07-21/"
+        },
+        {
+          "label": "MarketBeat - ARW earnings summary and Q2 date",
+          "url": "https://www.marketbeat.com/stocks/NYSE/ARW/earnings/"
+        },
+        {
+          "label": "GuruFocus - Wells Fargo Underweight $175, GF Value overvaluation, insider selling",
+          "url": "https://www.gurufocus.com/news/8966884/arw-maintained-by-wells-fargo-price-target-raised-to-175"
+        },
+        {
+          "label": "InTickers - Dell ECS termination and interim CEO commentary",
+          "url": "https://intickers.com/reports/arw/"
+        },
+        {
+          "label": "Stocktwits - ARW Zacks value stock and Microsoft Azure Virtual Desktop Specialization",
+          "url": "https://stocktwits.com/symbol/ARW"
+        },
+        {
+          "label": "Backpack Exchange - ARW valuation and AI-demand commentary",
+          "url": "https://backpack.exchange/stocks/ARW/news"
+        }
+      ]
+    },
+    "offHighPct": -13.37
+  }
+]
